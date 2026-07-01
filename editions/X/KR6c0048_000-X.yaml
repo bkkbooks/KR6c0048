@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0048/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經口訣
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X24/X24n0460.xml
+    old_id: X24n0460
+hash: sha256:ed4ededf9a20139bcbe118f2e3a53b5c7fb16c0428dea8b54b621fcb6300a83f

@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6c0048/v1
+canonical_location: https://kanripo.org/bkk/KR6c0048/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛經口訣
+  identifiers:
+    alt_id:
+    - X24n0460
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X24/X24n0460.xml
+    old_id: X24n0460
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0048_000.yaml, hash: 'sha256:ed4ededf9a20139bcbe118f2e3a53b5c7fb16c0428dea8b54b621fcb6300a83f'}
+  - {seq: 1, filename: KR6c0048_001.yaml, hash: 'sha256:c398e83ec930497b983fb4b706d4bbb7e638eef6bb91b3622d5a5339f1b3247d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0048_001.markers.yaml, hash: 'sha256:85ca09477ecb255e9b1d569084d5e72a62b8ee363d31e6549f8a9af6e425b553'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0048_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1299
+  label: 金剛經口訣
+  type: juan
+  level: 1
+hash: sha256:b5324da4b14ae06587e2081a77b102cea9e98f509ed72f668eb8141ded417f18
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
